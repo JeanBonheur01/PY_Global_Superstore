@@ -81,7 +81,7 @@ plt.show()
 ```
 ![Unknown-3](https://github.com/user-attachments/assets/2f034060-57cc-4b2d-8189-92db98f5f091)
 
-- Descriptive analysis to understand the occurance of the patterns
+- **Descriptive analysis to understand the occurance of the patterns**
 
 4. Analyse shipping costs to understand if high shipping costs are associated with low or negative profits
 
