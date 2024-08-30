@@ -159,6 +159,7 @@ print(f"Correlation between Market and Profit: {correlation_market_profit}")
 **output:** 
 
 Correlation between Segment and Profit: 0.0027970402666889506
+
 Correlation between Market and Profit: 0.0028472700468975044
 
 ### Results/Findings
